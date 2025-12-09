@@ -1,0 +1,15 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/netdefense-io/ndcli-releases/releases/download/v0.1.2/ndcli_0.1.2_windows_amd64.zip",
+            "bin": [
+                "ndcli.exe"
+            ],
+            "hash": "4823ad8fb47ec86438b55041d1db8980647b69fdf77594fe321aa6f4a3408ff3"
+        }
+    },
+    "homepage": "https://github.com/netdefense-io/ndcli-releases",
+    "license": "MIT",
+    "description": "NetDefense CLI tool"
+}
