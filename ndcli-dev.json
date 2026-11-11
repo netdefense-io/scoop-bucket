@@ -1,13 +1,14 @@
 {
-    "version": "1.15.1-dev.1",
+    "version": "1.46.1-dev.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/netdefense-io/ndcli-releases/releases/download/v1.15.1-dev.1/ndcli_1.15.1-dev.1_windows_amd64.zip",
+            "url": "https://github.com/netdefense-io/ndcli-releases/releases/download/v1.46.1-dev.1/ndcli_1.46.1-dev.1_windows_amd64.zip",
             "bin": [
                 "ndcli.exe",
-                "netdefense-mcp.exe"
+                "netdefense-mcp.exe",
+                "netdefense.exe"
             ],
-            "hash": "69d0a39ce41afa525a7698db9e4a9b44b58c0890effda5c9ff61899f73326944"
+            "hash": "f900fcdd79c10027c987e14b94ad1173b66b23ce6be8ee7a2adfeb4c9e2b4fdc"
         }
     },
     "homepage": "https://github.com/netdefense-io/NDCLI",
